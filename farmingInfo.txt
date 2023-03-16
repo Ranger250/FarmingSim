@@ -1,0 +1,6 @@
+add folders
+	# them
+
+make 1920x1080
+
+bring in assets
